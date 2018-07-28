@@ -11,4 +11,4 @@ function component() {
 
 document.body.appendChild(component());
 console.log(foo.hi())
-console.log(foo.cat)
+console.log(foo.animal)
